@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrudSqlite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+004bc51045a0e1903635e7b37b085e0d4a4d6d5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrudSqlite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrudSqlite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
